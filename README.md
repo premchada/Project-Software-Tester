@@ -1,6 +1,6 @@
 # Project-Software-Tester
 
-## what did I learn from this online course
+## what did I learn from this online course by Future Skill
 
 I learn a lot of stuff related to software tester skills. This course
 
